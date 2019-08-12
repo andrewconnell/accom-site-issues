@@ -11,4 +11,4 @@ I setup this repo for people to submit issues they find on my site. Think you fo
 - malformed code / content
 - rendering issue
 
-If so, open an [issue](issue) to let me know!
+If so, open an [issue](/andrewconnell/accom-site-issues/issues/new) to let me know!
